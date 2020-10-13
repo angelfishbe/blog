@@ -1,0 +1,9 @@
+User-agent: *
+
+Allow: /*.html$
+
+Disallow: /*/data/*
+Disallow: /downloads/*
+Disallow: /images/*
+
+Sitemap: https://blog.angelfish.be/sitemap.xml
